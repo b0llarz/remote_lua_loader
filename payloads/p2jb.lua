@@ -1,5 +1,6 @@
 -- Credits to TheFloW, cheburek3000, egycnq, Gezine and guys behind lapse port for remote_lua_loader
 -- there is like mix of 3 things, netcontrol impl by Fl0w, p2jb by cheburek3000 (technically it's egycnq's poops luac0re port) and lapse by rll guys
+-- thanks to ufm42 for kexp
 -- so it's more of a port rather than sole impl, and defenitely not a source someone should learn from :(
 
 -- copied straight from lapse.lua
